@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on DevOps and cloud engineering projects for defense industry
+Currently working on DevSecOps and cloud engineering projects for defense industry
 
 
 ## 🌐 Socials:
